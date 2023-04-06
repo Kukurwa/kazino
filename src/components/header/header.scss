@@ -1,0 +1,68 @@
+
+.header {
+
+    &_language {
+
+        &-el {
+            background: var(--gold-gradient);
+            box-shadow: -3px -3px 15px var(--gold-shadow);
+        }
+    }
+
+    &_auth {
+
+        &-login {
+
+            .text {
+                font-family: "Gilroy";
+                color: var(--gold-color);
+            }
+        }
+
+        &-sign {
+            display: flex;
+            align-items: center;
+            cursor: pointer;
+
+            @media (max-width: 670px) {
+                order: 2;
+                transform: translate(-50%);
+            }
+
+            .text {
+                font-family: "Gilroy";
+                color: var(--burgundy-color);
+                background: var(--gold-gradient);
+                border: 2px solid var(--gold-color);
+                box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.288);
+            }
+        }
+    }
+}
+
+.wp-el {
+
+    @media (max-width: 670px) {
+        background: var(--gold-gradient);
+        box-shadow: -3px -3px 15px var(--gold-shadow);
+        cursor: pointer;
+    }
+
+    img {
+        @media (max-width: 670px) {
+            transform: translate(-50%, -50%);
+        }
+    }
+}
+
+.wp {
+    background: var(--gold-gradient);
+    box-shadow: -3px -3px 15px var(--gold-shadow);
+    cursor: pointer;
+    transform: translate(-50%, -50%);
+
+    img {
+        transform: translate(-50%, -50%);
+    }
+}
+

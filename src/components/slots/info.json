@@ -1,0 +1,2935 @@
+{
+  "ok": true,
+  "list": [
+    {
+      "front_game_id": "EVLonokyd4wn7uekbjx",
+      "provider_badge": null,
+      "feats": [],
+      "icon_3": "https://www.cmsbetconstruct.com/content/images/casino/icon3/9b746bf444f1470324eaf034c578f5af_casinoGameIcon3.png",
+      "game_skin_id": "54908928",
+      "blocked_countries": [
+        "AU",
+        "IO",
+        "KP",
+        "LV",
+        "TW",
+        "US"
+      ],
+      "provider_title": "Evolution",
+      "title": null,
+      "thms": [],
+      "description": null,
+      "server_game_id": "onokyd4wn7uekbjx",
+      "icons2": [],
+      "cats": [
+        {
+          "id": "28",
+          "type": "category",
+          "title": "Live Dealer"
+        }
+      ],
+      "blocked_currencies": [
+        "VEF",
+        "BTC",
+        "ETH"
+      ],
+      "name": "Korean Speed Baccarat A",
+      "status": "published",
+      "extearnal_game_id": "400032328",
+      "has_age_restriction": 0,
+      "provider": "EVL",
+      "categories": [
+        "28"
+      ],
+      "themes": [],
+      "licenseIcons": [],
+      "extra_category": {
+        "id": "4",
+        "name": "baccarat",
+        "title": "Baccarat"
+      },
+      "show_as_provider": "EVL",
+      "badge": null,
+      "icons": [],
+      "game_options": null,
+      "types": {
+        "realMode": 1
+      },
+      "backgrounds": [],
+      "active": "1",
+      "icon_2": "https://www.cmsbetconstruct.com/content/images/casino/icon2/ed2951d591cd2bb8f9609fbe382a7347_casinoGameIcon2.png",
+      "id": "24580",
+      "ratio": "16:9",
+      "rtp": null,
+      "features": []
+    },
+    {
+      "icons": [],
+      "game_options": null,
+      "types": {
+        "realMode": 1
+      },
+      "extra_category": {
+        "title": "Roulette",
+        "name": "roulette",
+        "id": "2"
+      },
+      "show_as_provider": "EVL",
+      "badge": null,
+      "licenseIcons": [],
+      "themes": [],
+      "categories": [
+        "28"
+      ],
+      "provider": "EVL",
+      "rtp": null,
+      "features": [],
+      "ratio": "16:9",
+      "active": "1",
+      "backgrounds": [],
+      "id": "39489",
+      "icon_2": "https://www.cmsbetconstruct.com/content/images/casino/icon2/e77c4356e4faa621fdab779c073af925_casinoGameIcon2.jpg",
+      "blocked_countries": [
+        "AU",
+        "IO",
+        "CO",
+        "CU",
+        "IR",
+        "KP",
+        "LV",
+        "ZA",
+        "SY",
+        "TW",
+        "UA",
+        "US"
+      ],
+      "provider_title": "Evolution",
+      "title": null,
+      "icon_3": "https://www.cmsbetconstruct.com/content/images/casino/icon3/aacbda52029b900cf89df23afcb531c3_casinoGameIcon3.jpg",
+      "game_skin_id": "68790034",
+      "front_game_id": "EVLGoldbarRo0000001",
+      "provider_badge": null,
+      "feats": [],
+      "extearnal_game_id": "420014010",
+      "has_age_restriction": 0,
+      "blocked_currencies": [
+        "VEF",
+        "BTC",
+        "ETH"
+      ],
+      "name": "Gold Bar Roulette",
+      "status": "published",
+      "server_game_id": "GoldbarRo0000001",
+      "cats": [
+        {
+          "title": "Live Dealer",
+          "type": "category",
+          "id": "28"
+        }
+      ],
+      "icons2": [],
+      "description": null,
+      "thms": []
+    },
+    {
+      "description": null,
+      "thms": [],
+      "cats": [
+        {
+          "type": "category",
+          "id": "28",
+          "title": "Live Dealer"
+        }
+      ],
+      "icons2": [],
+      "server_game_id": "PorROU0000000001",
+      "name": "Roleta Ao Vivo",
+      "status": "published",
+      "blocked_currencies": [
+        "VEF",
+        "BTC",
+        "ETH"
+      ],
+      "extearnal_game_id": "420015702",
+      "has_age_restriction": 0,
+      "feats": [],
+      "provider_badge": null,
+      "front_game_id": "EVLPorROU0000000001",
+      "icon_3": "https://www.cmsbetconstruct.com/content/images/casino/icon3/b0bc46abe0f6e046c92e64ffa5b568a1_casinoGameIcon3.jpg",
+      "game_skin_id": "79285329",
+      "provider_title": "Evolution",
+      "blocked_countries": [
+        "AU",
+        "IO",
+        "CU",
+        "GR",
+        "IR",
+        "KR",
+        "LV",
+        "RO",
+        "ZA",
+        "ES",
+        "SY",
+        "TW",
+        "UA",
+        "US"
+      ],
+      "title": null,
+      "icon_2": "https://www.cmsbetconstruct.com/content/images/casino/icon2/fbaac3e004d7b7207566247b1982e373_casinoGameIcon2.jpg",
+      "id": "45887",
+      "active": "1",
+      "backgrounds": [],
+      "ratio": "16:9",
+      "features": [],
+      "rtp": null,
+      "provider": "EVL",
+      "themes": [],
+      "licenseIcons": [],
+      "categories": [
+        "28"
+      ],
+      "show_as_provider": "EVL",
+      "extra_category": {
+        "title": "Asian Games",
+        "name": "asianGames",
+        "id": "5"
+      },
+      "badge": null,
+      "game_options": null,
+      "icons": [],
+      "types": {
+        "realMode": 1
+      }
+    },
+    {
+      "provider_badge": null,
+      "feats": [],
+      "front_game_id": "EVLPorROULigh000001",
+      "game_skin_id": "79262317",
+      "icon_3": "https://www.cmsbetconstruct.com/content/images/casino/icon3/531137d9f243be15467c958c67043c36_casinoGameIcon3.jpg",
+      "title": null,
+      "provider_title": "Evolution",
+      "blocked_countries": [
+        "AU",
+        "IO",
+        "CA",
+        "CU",
+        "GR",
+        "IR",
+        "KP",
+        "LV",
+        "RO",
+        "ZA",
+        "ES",
+        "SY",
+        "TW",
+        "UA",
+        "US"
+      ],
+      "description": null,
+      "thms": [],
+      "icons2": [],
+      "cats": [
+        {
+          "type": "category",
+          "id": "28",
+          "title": "Live Dealer"
+        }
+      ],
+      "server_game_id": "PorROULigh000001",
+      "status": "published",
+      "name": "Roleta Relâmpago",
+      "blocked_currencies": [
+        "VEF",
+        "BTC",
+        "ETH"
+      ],
+      "has_age_restriction": 0,
+      "extearnal_game_id": "420015700",
+      "provider": "EVL",
+      "themes": [],
+      "licenseIcons": [],
+      "categories": [
+        "28"
+      ],
+      "badge": null,
+      "show_as_provider": "EVL",
+      "extra_category": {
+        "title": "Roulette",
+        "id": "2",
+        "name": "roulette"
+      },
+      "types": {
+        "realMode": 1
+      },
+      "game_options": null,
+      "icons": [],
+      "id": "45857",
+      "icon_2": "https://www.cmsbetconstruct.com/content/images/casino/icon2/fafd4f2b55fa3defbcd7e804d76181bf_casinoGameIcon2.jpg",
+      "active": "1",
+      "backgrounds": [],
+      "ratio": "16:9",
+      "features": [],
+      "rtp": null
+    },
+    {
+      "active": "1",
+      "backgrounds": [],
+      "id": "44135",
+      "icon_2": "https://www.cmsbetconstruct.com/content/images/casino/icon2/a7ed9fc83821ec1f553e819a0c6158f4_casinoGameIcon2.png",
+      "ratio": "16:9",
+      "rtp": null,
+      "features": [],
+      "provider": "EVL",
+      "categories": [
+        "28"
+      ],
+      "licenseIcons": [],
+      "themes": [],
+      "badge": null,
+      "extra_category": {
+        "id": "7",
+        "name": "turkishTables",
+        "title": "Turkish Tables"
+      },
+      "show_as_provider": "EVL",
+      "types": {
+        "realMode": 1
+      },
+      "icons": [],
+      "game_options": null,
+      "thms": [],
+      "description": null,
+      "server_game_id": "ql6z3oilam2tdp5a",
+      "cats": [
+        {
+          "title": "Live Dealer",
+          "id": "28",
+          "type": "category"
+        }
+      ],
+      "icons2": [],
+      "blocked_currencies": [
+        "VEF",
+        "BTC",
+        "ETH"
+      ],
+      "status": "published",
+      "name": "Turkish Football Studio",
+      "has_age_restriction": 0,
+      "extearnal_game_id": "420015022",
+      "front_game_id": "EVLql6z3oilam2tdp5a",
+      "feats": [],
+      "provider_badge": null,
+      "game_skin_id": "76690650",
+      "icon_3": "https://www.cmsbetconstruct.com/content/images/casino/icon3/5ed0638cbf0dc181de4ddd55f16e11eb_casinoGameIcon3.png",
+      "title": null,
+      "blocked_countries": [],
+      "provider_title": "Evolution"
+    },
+    {
+      "ratio": "16:9",
+      "icon_2": "https://www.cmsbetconstruct.com/content/images/casino/icon2/e28df66b0f8886e7d0cf8c081bcd78c4_casinoGameIcon2.png",
+      "id": "44070",
+      "active": "1",
+      "backgrounds": [],
+      "features": [],
+      "rtp": null,
+      "themes": [],
+      "licenseIcons": [],
+      "categories": [
+        "28"
+      ],
+      "provider": "EVL",
+      "types": {
+        "realMode": 1
+      },
+      "game_options": null,
+      "icons": [],
+      "badge": null,
+      "show_as_provider": "EVL",
+      "extra_category": {
+        "title": "Game Shows",
+        "name": "gameShows",
+        "id": "6"
+      },
+      "cats": [
+        {
+          "title": "Live Dealer",
+          "type": "category",
+          "id": "28"
+        }
+      ],
+      "icons2": [],
+      "server_game_id": "doasaloon0000001",
+      "thms": [],
+      "description": null,
+      "has_age_restriction": 0,
+      "extearnal_game_id": "420015023",
+      "name": "Dead or Alive: Saloon",
+      "status": "published",
+      "blocked_currencies": [
+        "VEF",
+        "BTC",
+        "ETH"
+      ],
+      "game_skin_id": "76590390",
+      "icon_3": "https://www.cmsbetconstruct.com/content/images/casino/icon3/cb2b600ed2dce7316cbdfc5dd6494538_casinoGameIcon3.png",
+      "feats": [],
+      "provider_badge": null,
+      "front_game_id": "EVLdoasaloon0000001",
+      "title": null,
+      "provider_title": "Evolution",
+      "blocked_countries": [
+        "AU",
+        "CO",
+        "CU",
+        "GR",
+        "IR",
+        "KR",
+        "LV",
+        "RO",
+        "ZA",
+        "ES",
+        "SY",
+        "TW",
+        "UA",
+        "US"
+      ]
+    },
+    {
+      "feats": [],
+      "provider_badge": null,
+      "front_game_id": "EVLTopDice000000001",
+      "game_skin_id": "76167727",
+      "icon_3": "https://www.cmsbetconstruct.com/content/images/casino/icon3/effe0951ca8c904776057350f2ca418c_casinoGameIcon3.jpg",
+      "title": null,
+      "provider_title": "Evolution",
+      "blocked_countries": [
+        "AU",
+        "CU",
+        "GR",
+        "IR",
+        "KP",
+        "LV",
+        "RO",
+        "ZA",
+        "ES",
+        "SY",
+        "TW",
+        "UA",
+        "US"
+      ],
+      "description": null,
+      "thms": [],
+      "cats": [
+        {
+          "type": "category",
+          "id": "28",
+          "title": "Live Dealer"
+        }
+      ],
+      "icons2": [],
+      "server_game_id": "TopDice000000001",
+      "status": "published",
+      "name": "Football Studio Dice",
+      "blocked_currencies": [
+        "VEF",
+        "BTC",
+        "ETH"
+      ],
+      "has_age_restriction": 0,
+      "extearnal_game_id": "420015018",
+      "provider": "EVL",
+      "themes": [],
+      "licenseIcons": [],
+      "categories": [
+        "28"
+      ],
+      "badge": null,
+      "show_as_provider": "EVL",
+      "types": {
+        "realMode": 1
+      },
+      "game_options": null,
+      "icons": [],
+      "id": "43897",
+      "icon_2": "https://www.cmsbetconstruct.com/content/images/casino/icon2/6d632d35392395936825b971f5c36957_casinoGameIcon2.jpg",
+      "backgrounds": [],
+      "active": "1",
+      "ratio": "16:9",
+      "features": [],
+      "rtp": null
+    },
+    {
+      "title": null,
+      "blocked_countries": [
+        "AU",
+        "CU",
+        "GR",
+        "IR",
+        "KP",
+        "LV",
+        "RO",
+        "ZA",
+        "ES",
+        "SY",
+        "TW",
+        "UA",
+        "US"
+      ],
+      "provider_title": "Evolution",
+      "front_game_id": "EVL7nyiaws9tgqrzaz3",
+      "feats": [],
+      "provider_badge": null,
+      "game_skin_id": "76165088",
+      "icon_3": "https://www.cmsbetconstruct.com/content/images/casino/icon3/752a22e3985079853c6252a0d0841d06_casinoGameIcon3.jpg",
+      "blocked_currencies": [
+        "VEF",
+        "BTC",
+        "ETH"
+      ],
+      "status": "published",
+      "name": "Football Studio Roulette",
+      "has_age_restriction": 0,
+      "extearnal_game_id": "20920",
+      "thms": [],
+      "description": null,
+      "server_game_id": "7nyiaws9tgqrzaz3",
+      "icons2": [],
+      "cats": [
+        {
+          "type": "category",
+          "id": "28",
+          "title": "Live Dealer"
+        }
+      ],
+      "badge": null,
+      "show_as_provider": "EVL",
+      "types": {
+        "realMode": 1
+      },
+      "icons": [],
+      "game_options": null,
+      "provider": "EVL",
+      "themes": [],
+      "categories": [
+        "28"
+      ],
+      "licenseIcons": [],
+      "rtp": null,
+      "features": [],
+      "active": "1",
+      "backgrounds": [],
+      "icon_2": "https://www.cmsbetconstruct.com/content/images/casino/icon2/83a5a12662c562bdcc23af8aa190238d_casinoGameIcon2.jpg",
+      "id": "43899",
+      "ratio": "16:9"
+    },
+    {
+      "thms": [],
+      "description": null,
+      "cats": [
+        {
+          "type": "category",
+          "id": "28",
+          "title": "Live Dealer"
+        }
+      ],
+      "icons2": [],
+      "server_game_id": "MonBigBaller0001",
+      "name": "MONOPOLY Big Baller",
+      "status": "published",
+      "blocked_currencies": [
+        "VEF",
+        "BTC",
+        "ETH"
+      ],
+      "has_age_restriction": 0,
+      "extearnal_game_id": "420014017",
+      "provider_badge": null,
+      "feats": [],
+      "front_game_id": "EVLMonBigBaller0001",
+      "game_skin_id": "70686637",
+      "icon_3": "https://www.cmsbetconstruct.com/content/images/casino/icon3/cee16970fe3c70cf90d47a8def9081e4_casinoGameIcon3.jpg",
+      "title": null,
+      "provider_title": "Evolution",
+      "blocked_countries": [
+        "AU",
+        "IO",
+        "CU",
+        "GR",
+        "IR",
+        "KP",
+        "LV",
+        "RO",
+        "ZA",
+        "ES",
+        "SY",
+        "TW",
+        "UA",
+        "US"
+      ],
+      "id": "40197",
+      "icon_2": "https://www.cmsbetconstruct.com/content/images/casino/icon2/a0a37ebfe98d015f89199f070efcf4a5_casinoGameIcon2.jpg",
+      "active": "1",
+      "backgrounds": [],
+      "ratio": "16:9",
+      "features": [],
+      "rtp": null,
+      "provider": "EVL",
+      "licenseIcons": [],
+      "categories": [
+        "28"
+      ],
+      "themes": [],
+      "badge": null,
+      "show_as_provider": "EVL",
+      "types": {
+        "realMode": 1
+      },
+      "game_options": null,
+      "icons": []
+    },
+    {
+      "id": "38803",
+      "icon_2": "https://www.cmsbetconstruct.com/content/images/casino/icon2/7d28108400c2c4d15853c99d4ce2db15_casinoGameIcon2.png",
+      "backgrounds": [],
+      "active": "1",
+      "ratio": "16:9",
+      "features": [],
+      "rtp": null,
+      "provider": "EVL",
+      "themes": [],
+      "licenseIcons": [],
+      "categories": [
+        "51",
+        "28"
+      ],
+      "show_as_provider": "EVL",
+      "extra_category": {
+        "title": "Game Shows",
+        "id": "6",
+        "name": "gameShows"
+      },
+      "badge": null,
+      "game_options": null,
+      "icons": [],
+      "background": "https://www.cmsbetconstruct.com/content/images/casino/background/436a4e213b440a562bddb751d473ddb2_background.jpg",
+      "types": {
+        "realMode": 1
+      },
+      "description": null,
+      "thms": [],
+      "icons2": [],
+      "cats": [
+        {
+          "type": "category",
+          "id": "51",
+          "title": "Video Slots"
+        },
+        {
+          "type": "category",
+          "id": "28",
+          "title": "Live Dealer"
+        }
+      ],
+      "server_game_id": "CrazyCoinFlip001",
+      "status": "published",
+      "name": "Crazy Coin Flip",
+      "blocked_currencies": [
+        "VEF",
+        "BTC",
+        "ETH"
+      ],
+      "extearnal_game_id": "21709",
+      "has_age_restriction": 0,
+      "feats": [],
+      "provider_badge": null,
+      "front_game_id": "EVLCrazyCoinFlip001",
+      "icon_3": "https://www.cmsbetconstruct.com/content/images/casino/icon3/0341b63ad8d99a4f282965729b8804f9_casinoGameIcon3.png",
+      "game_skin_id": "67872541",
+      "provider_title": "Evolution",
+      "blocked_countries": [
+        "IO",
+        "CA",
+        "CU",
+        "IR",
+        "KP",
+        "LV",
+        "ZA",
+        "SY",
+        "TW",
+        "UA",
+        "US"
+      ],
+      "title": null
+    },
+    {
+      "provider_title": "Evolution",
+      "blocked_countries": [
+        "AU",
+        "CU",
+        "IR",
+        "KP",
+        "LV",
+        "ZA",
+        "SY",
+        "TW",
+        "US",
+        "VG"
+      ],
+      "title": null,
+      "icon_3": "https://www.cmsbetconstruct.com/content/images/casino/icon3/f652be7453d6e370fef6084a5d59e75f_casinoGameIcon3.jpeg",
+      "game_skin_id": "68773734",
+      "provider_badge": null,
+      "feats": [],
+      "front_game_id": "EVLteenpattitable01",
+      "extearnal_game_id": "420014009",
+      "has_age_restriction": 0,
+      "status": "published",
+      "name": "Teen Patti",
+      "blocked_currencies": [
+        "VEF",
+        "BTC",
+        "ETH"
+      ],
+      "cats": [
+        {
+          "title": "Live Dealer",
+          "type": "category",
+          "id": "28"
+        }
+      ],
+      "icons2": [],
+      "server_game_id": "teenpattitable01",
+      "description": null,
+      "thms": [],
+      "game_options": null,
+      "icons": [],
+      "types": {
+        "realMode": 1
+      },
+      "show_as_provider": "EVL",
+      "extra_category": {
+        "title": "Poker",
+        "id": "3",
+        "name": "poker"
+      },
+      "badge": null,
+      "licenseIcons": [],
+      "themes": [],
+      "categories": [
+        "28"
+      ],
+      "provider": "EVL",
+      "features": [],
+      "rtp": null,
+      "ratio": "16:9",
+      "icon_2": "https://www.cmsbetconstruct.com/content/images/casino/icon2/1779ba2afe6339d1e6fea8b8cab88de1_casinoGameIcon2.jpeg",
+      "id": "39473",
+      "backgrounds": [],
+      "active": "1"
+    },
+    {
+      "cats": [
+        {
+          "id": "28",
+          "type": "category",
+          "title": "Live Dealer"
+        }
+      ],
+      "icons2": [],
+      "server_game_id": "XxxtremeLigh0001",
+      "description": null,
+      "thms": [],
+      "extearnal_game_id": "420012086",
+      "has_age_restriction": 0,
+      "name": "XXXtreme Lightning Roulette",
+      "status": "published",
+      "blocked_currencies": [
+        "VEF",
+        "BTC",
+        "ETH"
+      ],
+      "icon_3": "https://www.cmsbetconstruct.com/content/images/casino/icon3/46f78c79fbc0234ff55492b3cf58ef22_casinoGameIcon3.png",
+      "game_skin_id": "66764369",
+      "feats": [],
+      "provider_badge": null,
+      "front_game_id": "EVLXxxtremeLigh0001",
+      "provider_title": "Evolution",
+      "blocked_countries": [
+        "AU",
+        "CO",
+        "CU",
+        "IR",
+        "KR",
+        "LV",
+        "ZA",
+        "SY",
+        "TW",
+        "UA",
+        "US"
+      ],
+      "title": null,
+      "ratio": "16:9",
+      "icon_2": "https://www.cmsbetconstruct.com/content/images/casino/icon2/f2e1675015e94755c0fba097f76cdff3_casinoGameIcon2.png",
+      "id": "37690",
+      "backgrounds": [],
+      "active": "1",
+      "features": [],
+      "rtp": null,
+      "categories": [
+        "28"
+      ],
+      "licenseIcons": [],
+      "themes": [],
+      "provider": "EVL",
+      "game_options": null,
+      "icons": [],
+      "types": {
+        "realMode": 1
+      },
+      "show_as_provider": "EVL",
+      "extra_category": {
+        "title": "Roulette",
+        "name": "roulette",
+        "id": "2"
+      },
+      "badge": null
+    },
+    {
+      "ratio": "16:9",
+      "icon_2": "https://www.cmsbetconstruct.com/content/images/casino/icon2/0e93d7bc285fb4f6a9b59e8a4ee5294a_casinoGameIcon2.jpg",
+      "id": "36158",
+      "backgrounds": [],
+      "active": "1",
+      "features": [],
+      "rtp": null,
+      "licenseIcons": [],
+      "themes": [],
+      "categories": [
+        "28"
+      ],
+      "provider": "EVL",
+      "game_options": null,
+      "icons": [],
+      "types": {
+        "realMode": 1
+      },
+      "show_as_provider": "EVL",
+      "extra_category": {
+        "name": "roulette",
+        "id": "2",
+        "title": "Roulette"
+      },
+      "badge": null,
+      "cats": [
+        {
+          "title": "Live Dealer",
+          "id": "28",
+          "type": "category"
+        }
+      ],
+      "icons2": [],
+      "server_game_id": "pnkk4iuchw7blb2p",
+      "description": null,
+      "thms": [],
+      "extearnal_game_id": "400067357",
+      "has_age_restriction": 0,
+      "status": "published",
+      "name": "Dragonara Roulette",
+      "blocked_currencies": [
+        "VEF",
+        "BTC",
+        "ETH"
+      ],
+      "icon_3": "https://www.cmsbetconstruct.com/content/images/casino/icon3/4ea4b1bcaedac61cbdc1c1f1bc94bc57_casinoGameIcon3.jpg",
+      "game_skin_id": "65467241",
+      "provider_badge": null,
+      "feats": [],
+      "front_game_id": "EVLpnkk4iuchw7blb2p",
+      "provider_title": "Evolution",
+      "blocked_countries": [
+        "AU",
+        "CU",
+        "IR",
+        "LV",
+        "ZA",
+        "SY",
+        "TW",
+        "UA",
+        "GB",
+        "US"
+      ],
+      "title": null
+    },
+    {
+      "thms": [],
+      "description": null,
+      "cats": [
+        {
+          "id": "28",
+          "type": "category",
+          "title": "Live Dealer"
+        }
+      ],
+      "icons2": [],
+      "server_game_id": "AndarBahar000001",
+      "name": "Super Andar Bahar",
+      "status": "published",
+      "blocked_currencies": [
+        "VEF",
+        "BTC",
+        "ETH"
+      ],
+      "extearnal_game_id": "420013001",
+      "has_age_restriction": 0,
+      "provider_badge": null,
+      "feats": [],
+      "front_game_id": "EVLAndarBahar000001",
+      "icon_3": "https://www.cmsbetconstruct.com/content/images/casino/icon3/013cdff9b35c3f82775fc8177d064b33_casinoGameIcon3.jpg",
+      "game_skin_id": "66385825",
+      "provider_title": "Evolution",
+      "blocked_countries": [
+        "AU",
+        "IO",
+        "CA",
+        "CU",
+        "KP",
+        "LV",
+        "ZA",
+        "SY",
+        "TW",
+        "UA",
+        "US"
+      ],
+      "title": null,
+      "id": "37405",
+      "icon_2": "https://www.cmsbetconstruct.com/content/images/casino/icon2/19e6d3184da07ee5dab2a1244c24522c_casinoGameIcon2.jpg",
+      "active": "1",
+      "backgrounds": [],
+      "ratio": "16:9",
+      "features": [],
+      "rtp": null,
+      "provider": "EVL",
+      "themes": [],
+      "categories": [
+        "28"
+      ],
+      "licenseIcons": [],
+      "show_as_provider": "EVL",
+      "extra_category": {
+        "title": "Poker",
+        "id": "3",
+        "name": "poker"
+      },
+      "badge": null,
+      "game_options": null,
+      "icons": [],
+      "types": {
+        "realMode": 1
+      }
+    },
+    {
+      "features": [],
+      "rtp": null,
+      "ratio": "16:9",
+      "icon_2": "https://www.cmsbetconstruct.com/content/images/casino/icon2/880d658080fb44583077aa8889924513_casinoGameIcon2.jpg",
+      "id": "36160",
+      "backgrounds": [],
+      "active": "1",
+      "types": {
+        "realMode": 1
+      },
+      "game_options": null,
+      "icons": [],
+      "badge": null,
+      "show_as_provider": "EVL",
+      "extra_category": {
+        "name": "baccarat",
+        "id": "4",
+        "title": "Baccarat"
+      },
+      "categories": [
+        "28"
+      ],
+      "themes": [],
+      "licenseIcons": [],
+      "provider": "EVL",
+      "has_age_restriction": 0,
+      "extearnal_game_id": "420012171",
+      "name": "Peek Baccarat",
+      "status": "published",
+      "blocked_currencies": [],
+      "icons2": [],
+      "cats": [
+        {
+          "type": "category",
+          "id": "28",
+          "title": "Live Dealer"
+        }
+      ],
+      "server_game_id": "peekbaccarat0001",
+      "description": null,
+      "thms": [],
+      "title": null,
+      "provider_title": "Evolution",
+      "blocked_countries": [
+        "AU",
+        "CU",
+        "IR",
+        "KP",
+        "LV",
+        "ZA",
+        "SY",
+        "TW",
+        "UA",
+        "US",
+        "VG"
+      ],
+      "game_skin_id": "65473663",
+      "icon_3": "https://www.cmsbetconstruct.com/content/images/casino/icon3/7eac3bf015f5952f03a5d439878f46c9_casinoGameIcon3.jpg",
+      "provider_badge": null,
+      "feats": [],
+      "front_game_id": "EVLpeekbaccarat0001"
+    },
+    {
+      "blocked_currencies": [],
+      "status": "published",
+      "name": "Golden Wealth Baccarat",
+      "extearnal_game_id": "400067389",
+      "has_age_restriction": 0,
+      "description": null,
+      "thms": [],
+      "server_game_id": "gwbaccarat000001",
+      "icons2": [],
+      "cats": [
+        {
+          "id": "28",
+          "type": "category",
+          "title": "Live Dealer"
+        }
+      ],
+      "blocked_countries": [
+        "BD",
+        "BT",
+        "IO",
+        "KH",
+        "CN",
+        "ID",
+        "JP",
+        "LA",
+        "MY",
+        "MM",
+        "NP",
+        "PH",
+        "LK",
+        "TH",
+        "VN"
+      ],
+      "provider_title": "Evolution",
+      "title": null,
+      "front_game_id": "EVLgwbaccarat000001",
+      "feats": [],
+      "provider_badge": null,
+      "icon_3": "https://www.cmsbetconstruct.com/content/images/casino/icon3/ab84feb2fb3985728f63210f5ad5f64f_casinoGameIcon3.jpg",
+      "game_skin_id": "60946284",
+      "rtp": null,
+      "features": [],
+      "active": "1",
+      "backgrounds": [],
+      "icon_2": "https://www.cmsbetconstruct.com/content/images/casino/icon2/ac9e2cbc9103dd03cd95929b1b00f81b_casinoGameIcon2.jpg",
+      "id": "31665",
+      "ratio": "16:9",
+      "extra_category": {
+        "id": "4",
+        "name": "baccarat",
+        "title": "Baccarat"
+      },
+      "show_as_provider": "EVL",
+      "badge": null,
+      "icons": [],
+      "game_options": null,
+      "types": {
+        "realMode": 1
+      },
+      "provider": "EVL",
+      "themes": [],
+      "categories": [
+        "28"
+      ],
+      "licenseIcons": []
+    },
+    {
+      "server_game_id": "BacBo00000000001",
+      "icons2": [],
+      "cats": [
+        {
+          "type": "category",
+          "id": "28",
+          "title": "Live Dealer"
+        }
+      ],
+      "description": null,
+      "thms": [],
+      "extearnal_game_id": "420012128",
+      "has_age_restriction": 0,
+      "blocked_currencies": [
+        "VEF",
+        "BTC",
+        "ETH"
+      ],
+      "status": "published",
+      "name": "Bac Bo",
+      "icon_3": "https://www.cmsbetconstruct.com/content/images/casino/icon3/8aee471e1f4477ebd87903e18621121d_casinoGameIcon3.jpg",
+      "game_skin_id": "63926911",
+      "front_game_id": "EVLBacBo00000000001",
+      "feats": [],
+      "provider_badge": null,
+      "blocked_countries": [],
+      "provider_title": "Evolution",
+      "title": null,
+      "ratio": "16:9",
+      "active": "1",
+      "backgrounds": [],
+      "icon_2": "https://www.cmsbetconstruct.com/content/images/casino/icon2/5467d5846c7311157bf56bd1775f48f5_casinoGameIcon2.jpg",
+      "id": "34940",
+      "rtp": null,
+      "features": [],
+      "categories": [
+        "28"
+      ],
+      "themes": [],
+      "licenseIcons": [],
+      "provider": "EVL",
+      "icons": [],
+      "game_options": null,
+      "types": {
+        "realMode": 1
+      },
+      "extra_category": {
+        "title": "Baccarat",
+        "name": "baccarat",
+        "id": "4"
+      },
+      "show_as_provider": "EVL",
+      "badge": null
+    },
+    {
+      "extra_category": {
+        "title": "Blackjack",
+        "id": "1",
+        "name": "blackjack"
+      },
+      "show_as_provider": "EVL",
+      "badge": null,
+      "icons": [],
+      "game_options": null,
+      "types": {
+        "realMode": 1
+      },
+      "provider": "EVL",
+      "themes": [],
+      "licenseIcons": [],
+      "categories": [
+        "28"
+      ],
+      "rtp": null,
+      "features": [],
+      "active": "1",
+      "backgrounds": [],
+      "icon_2": "https://www.cmsbetconstruct.com/content/images/casino/icon2/c6d2cccead570ffd990697e84d69d41e_casinoGameIcon2.jpg",
+      "id": "32013",
+      "ratio": "16:9",
+      "blocked_countries": [
+        "AU",
+        "IO",
+        "CU",
+        "IR",
+        "KP",
+        "LV",
+        "ZA",
+        "SY",
+        "TW",
+        "UA",
+        "US"
+      ],
+      "provider_title": "Evolution",
+      "title": null,
+      "front_game_id": "EVLLightningSbj0001",
+      "provider_badge": null,
+      "feats": [],
+      "icon_3": "https://www.cmsbetconstruct.com/content/images/casino/icon3/e8deec7ebf336d1fd789c11e2e54239a_casinoGameIcon3.jpg",
+      "game_skin_id": "61117838",
+      "blocked_currencies": [
+        "VEF",
+        "BTC",
+        "ETH"
+      ],
+      "name": "Lightning Blackjack",
+      "status": "published",
+      "extearnal_game_id": "400067377",
+      "has_age_restriction": 0,
+      "description": null,
+      "thms": [],
+      "server_game_id": "LightningSbj0001",
+      "cats": [
+        {
+          "type": "category",
+          "id": "28",
+          "title": "Live Dealer"
+        }
+      ],
+      "icons2": []
+    },
+    {
+      "description": null,
+      "thms": [],
+      "icons2": [],
+      "cats": [
+        {
+          "title": "Live Dealer",
+          "id": "28",
+          "type": "category"
+        }
+      ],
+      "server_game_id": "rng-lbaccarat000",
+      "status": "published",
+      "name": "First Person Lightning Baccarat",
+      "blocked_currencies": [],
+      "has_age_restriction": 0,
+      "extearnal_game_id": "400067376",
+      "provider_badge": null,
+      "feats": [],
+      "front_game_id": "EVLrng-lbaccarat000",
+      "game_skin_id": "60949755",
+      "icon_3": "https://www.cmsbetconstruct.com/content/images/casino/icon3/e270d93e6d211f7bc2513796205758b9_casinoGameIcon3.jpg",
+      "title": null,
+      "provider_title": "Evolution",
+      "blocked_countries": [
+        "BD",
+        "BT",
+        "IO",
+        "KH",
+        "CN",
+        "ID",
+        "JP",
+        "LA",
+        "MY",
+        "MM",
+        "NP",
+        "LK",
+        "TH",
+        "VN"
+      ],
+      "id": "31669",
+      "icon_2": "https://www.cmsbetconstruct.com/content/images/casino/icon2/c1fa6357370023fe816c0f301d7d3dd0_casinoGameIcon2.jpg",
+      "active": "1",
+      "backgrounds": [],
+      "ratio": "16:9",
+      "features": [],
+      "rtp": null,
+      "provider": "EVL",
+      "categories": [
+        "28"
+      ],
+      "themes": [],
+      "licenseIcons": [],
+      "badge": null,
+      "show_as_provider": "EVL",
+      "types": {
+        "realMode": 1
+      },
+      "game_options": null,
+      "icons": []
+    },
+    {
+      "provider_title": "Evolution",
+      "blocked_countries": [
+        "BD",
+        "BT",
+        "IO",
+        "KH",
+        "CN",
+        "ID",
+        "JP",
+        "LA",
+        "MY",
+        "MM",
+        "NP",
+        "LK",
+        "TH",
+        "VN"
+      ],
+      "title": null,
+      "feats": [],
+      "provider_badge": null,
+      "front_game_id": "EVLrng-gwbaccarat00",
+      "icon_3": "https://www.cmsbetconstruct.com/content/images/casino/icon3/e0a61e1fa581aecbff7ea7335064ff0c_casinoGameIcon3.jpg",
+      "game_skin_id": "60948644",
+      "status": "published",
+      "name": "First Person Golden Wealth Baccarat",
+      "blocked_currencies": [],
+      "extearnal_game_id": "400067375",
+      "has_age_restriction": 0,
+      "thms": [],
+      "description": null,
+      "icons2": [],
+      "cats": [
+        {
+          "title": "Live Dealer",
+          "type": "category",
+          "id": "28"
+        }
+      ],
+      "server_game_id": "rng-gwbaccarat00",
+      "show_as_provider": "EVL",
+      "badge": null,
+      "game_options": null,
+      "icons": [],
+      "types": {
+        "realMode": 1
+      },
+      "provider": "EVL",
+      "licenseIcons": [],
+      "categories": [
+        "28"
+      ],
+      "themes": [],
+      "features": [],
+      "rtp": null,
+      "id": "31667",
+      "icon_2": "https://www.cmsbetconstruct.com/content/images/casino/icon2/ab729eda1c49d06249c4c6272a22a0ca_casinoGameIcon2.jpg",
+      "backgrounds": [],
+      "active": "1",
+      "ratio": "16:9"
+    },
+    {
+      "provider": "EVL",
+      "licenseIcons": [],
+      "categories": [
+        "28"
+      ],
+      "themes": [],
+      "badge": null,
+      "show_as_provider": "EVL",
+      "extra_category": {
+        "title": "Blackjack",
+        "id": "1",
+        "name": "blackjack"
+      },
+      "types": {
+        "realMode": 1
+      },
+      "game_options": null,
+      "icons": [],
+      "id": "29529",
+      "icon_2": "https://www.cmsbetconstruct.com/content/images/casino/icon2/b886a03c48cc39faed89f77d8e42ad92_casinoGameIcon2.png",
+      "backgrounds": [],
+      "active": "1",
+      "ratio": "16:9",
+      "features": [],
+      "rtp": null,
+      "feats": [],
+      "provider_badge": null,
+      "front_game_id": "EVLmrfykemt5slanyi5",
+      "game_skin_id": "59128527",
+      "icon_3": "https://www.cmsbetconstruct.com/content/images/casino/icon3/2fb19d3088d3670bc46bfce2449072c7_casinoGameIcon3.png",
+      "title": null,
+      "provider_title": "Evolution",
+      "blocked_countries": [],
+      "thms": [],
+      "description": null,
+      "cats": [
+        {
+          "type": "category",
+          "id": "28",
+          "title": "Live Dealer"
+        }
+      ],
+      "icons2": [],
+      "server_game_id": "mrfykemt5slanyi5",
+      "status": "published",
+      "name": "Infinite Blackjack",
+      "blocked_currencies": [
+        "VEF",
+        "BTC",
+        "ETH"
+      ],
+      "has_age_restriction": 0,
+      "extearnal_game_id": "330502"
+    },
+    {
+      "icon_3": "https://www.cmsbetconstruct.com/content/images/casino/icon3/c87a32ceca5d32067853e720a5859fcf_casinoGameIcon3.jpg",
+      "game_skin_id": "57740973",
+      "front_game_id": "EVLTRLRou0000000001",
+      "provider_badge": null,
+      "feats": [],
+      "blocked_countries": [
+        "AU",
+        "CO",
+        "IR",
+        "KP",
+        "LV",
+        "TW",
+        "US"
+      ],
+      "provider_title": "Evolution",
+      "title": null,
+      "server_game_id": "TRLRou0000000001",
+      "icons2": [],
+      "cats": [
+        {
+          "type": "category",
+          "id": "28",
+          "title": "Live Dealer"
+        }
+      ],
+      "description": null,
+      "thms": [],
+      "extearnal_game_id": "400041318",
+      "has_age_restriction": 0,
+      "blocked_currencies": [
+        "VEF",
+        "BTC",
+        "ETH"
+      ],
+      "name": "Turkish Lightning Roulette",
+      "status": "published",
+      "themes": [],
+      "licenseIcons": [],
+      "categories": [
+        "28"
+      ],
+      "provider": "EVL",
+      "icons": [],
+      "game_options": null,
+      "types": {
+        "realMode": 1
+      },
+      "extra_category": {
+        "id": "7",
+        "name": "turkishTables",
+        "title": "Turkish Tables"
+      },
+      "show_as_provider": "EVL",
+      "badge": null,
+      "ratio": "16:9",
+      "active": "1",
+      "backgrounds": [],
+      "id": "27722",
+      "icon_2": "https://www.cmsbetconstruct.com/content/images/casino/icon2/e12b48795508960ed1d89e657a81210c_casinoGameIcon2.jpg",
+      "rtp": null,
+      "features": []
+    },
+    {
+      "show_as_provider": "EVL",
+      "extra_category": {
+        "name": "gameShows",
+        "id": "6",
+        "title": "Game Shows"
+      },
+      "badge": null,
+      "game_options": null,
+      "icons": [],
+      "types": {
+        "realMode": 1
+      },
+      "provider": "EVL",
+      "themes": [],
+      "licenseIcons": [],
+      "categories": [
+        "28"
+      ],
+      "features": [],
+      "rtp": "96.56",
+      "icon_2": "https://www.cmsbetconstruct.com/content/images/casino/icon2/d29d5ba33a6fee38d89cb3e1032b73ce_casinoGameIcon2.jpg",
+      "id": "27226",
+      "active": "1",
+      "backgrounds": [],
+      "ratio": "16:9",
+      "provider_title": "Evolution",
+      "blocked_countries": [
+        "AU",
+        "IO",
+        "CO",
+        "KR",
+        "LV",
+        "TW",
+        "US"
+      ],
+      "title": null,
+      "feats": [],
+      "provider_badge": null,
+      "front_game_id": "EVLGonzoTH000000001",
+      "icon_3": "https://www.cmsbetconstruct.com/content/images/casino/icon3/9b7b1ef3aee7a6a42345de34a0a9ab51_casinoGameIcon3.jpg",
+      "game_skin_id": "57739024",
+      "status": "published",
+      "name": "Gonzo's Treasure Hunt",
+      "blocked_currencies": [
+        "VEF",
+        "BTC",
+        "ETH"
+      ],
+      "extearnal_game_id": "400041304",
+      "has_age_restriction": 0,
+      "description": null,
+      "thms": [],
+      "icons2": [],
+      "cats": [
+        {
+          "title": "Live Dealer",
+          "type": "category",
+          "id": "28"
+        }
+      ],
+      "server_game_id": "GonzoTH000000001"
+    },
+    {
+      "ratio": "16:9",
+      "backgrounds": [],
+      "active": "1",
+      "icon_2": "https://www.cmsbetconstruct.com/content/images/casino/icon2/9ddb8dc948cd23c0a043b11dba9687cc_casinoGameIcon2.jpg",
+      "id": "26134",
+      "rtp": null,
+      "features": [],
+      "licenseIcons": [],
+      "categories": [
+        "28"
+      ],
+      "themes": [],
+      "provider": "EVL",
+      "icons": [],
+      "game_options": null,
+      "types": {
+        "realMode": 1
+      },
+      "extra_category": {
+        "name": "blackjack",
+        "id": "1",
+        "title": "Blackjack"
+      },
+      "show_as_provider": "EVL",
+      "badge": null,
+      "server_game_id": "sni5cza6d1vvl50i",
+      "icons2": [],
+      "cats": [
+        {
+          "title": "Live Dealer",
+          "type": "category",
+          "id": "28"
+        }
+      ],
+      "thms": [],
+      "description": null,
+      "extearnal_game_id": "20986",
+      "has_age_restriction": 0,
+      "blocked_currencies": [
+        "VEF",
+        "BTC",
+        "ETH"
+      ],
+      "name": "Blackjack Party",
+      "status": "published",
+      "icon_3": "https://www.cmsbetconstruct.com/content/images/casino/icon3/6a4638906bb97371d499514439749254_casinoGameIcon3.jpg",
+      "game_skin_id": "56395400",
+      "front_game_id": "EVLsni5cza6d1vvl50i",
+      "feats": [],
+      "provider_badge": null,
+      "blocked_countries": [],
+      "provider_title": "Evolution",
+      "title": null
+    },
+    {
+      "licenseIcons": [],
+      "categories": [
+        "28"
+      ],
+      "themes": [],
+      "provider": "EVL",
+      "types": {
+        "realMode": 1
+      },
+      "game_options": null,
+      "icons": [],
+      "badge": null,
+      "show_as_provider": "EVL",
+      "extra_category": {
+        "id": "2",
+        "name": "roulette",
+        "title": "Roulette"
+      },
+      "ratio": "16:9",
+      "icon_2": "https://www.cmsbetconstruct.com/content/images/casino/icon2/3d65a993f02190d3bb0359c3cf16f4ec_casinoGameIcon2.jpg",
+      "id": "26132",
+      "backgrounds": [],
+      "active": "1",
+      "features": [],
+      "rtp": null,
+      "game_skin_id": "56392314",
+      "icon_3": "https://www.cmsbetconstruct.com/content/images/casino/icon3/ca851fd9f9067db455841fcfb5782dbb_casinoGameIcon3.jpg",
+      "feats": [],
+      "provider_badge": null,
+      "front_game_id": "EVLrwtdfei2enforqd5",
+      "title": null,
+      "provider_title": "Evolution",
+      "blocked_countries": [],
+      "icons2": [],
+      "cats": [
+        {
+          "id": "28",
+          "type": "category",
+          "title": "Live Dealer"
+        }
+      ],
+      "server_game_id": "rwtdfei2enforqd5",
+      "thms": [],
+      "description": null,
+      "has_age_restriction": 0,
+      "extearnal_game_id": "20931",
+      "name": "Auto-Roulette La Partage",
+      "status": "published",
+      "blocked_currencies": [
+        "VEF",
+        "BTC",
+        "ETH"
+      ]
+    },
+    {
+      "provider_title": "Evolution",
+      "blocked_countries": [],
+      "title": null,
+      "provider_badge": null,
+      "feats": [],
+      "front_game_id": "EVLmkvhbciosnfqhat7",
+      "icon_3": "https://www.cmsbetconstruct.com/content/images/casino/icon3/b81ac41f763bb857fd6bec57533e00cc_casinoGameIcon3.jpg",
+      "game_skin_id": "56390460",
+      "name": "Arabic Roulette",
+      "status": "published",
+      "blocked_currencies": [
+        "VEF",
+        "BTC",
+        "ETH"
+      ],
+      "extearnal_game_id": "40003261",
+      "has_age_restriction": 0,
+      "description": null,
+      "thms": [],
+      "cats": [
+        {
+          "id": "28",
+          "type": "category",
+          "title": "Live Dealer"
+        }
+      ],
+      "icons2": [],
+      "server_game_id": "mkvhbciosnfqhat7",
+      "show_as_provider": "EVL",
+      "extra_category": {
+        "title": "Roulette",
+        "name": "roulette",
+        "id": "2"
+      },
+      "badge": null,
+      "game_options": null,
+      "icons": [],
+      "types": {
+        "realMode": 1
+      },
+      "provider": "EVL",
+      "themes": [],
+      "licenseIcons": [],
+      "categories": [
+        "28"
+      ],
+      "features": [],
+      "rtp": null,
+      "icon_2": "https://www.cmsbetconstruct.com/content/images/casino/icon2/390c6412f51ab4a5ed93a36a898e9589_casinoGameIcon2.jpg",
+      "id": "26130",
+      "active": "1",
+      "backgrounds": [],
+      "ratio": "16:9"
+    },
+    {
+      "licenseIcons": [],
+      "themes": [],
+      "categories": [
+        "28"
+      ],
+      "provider": "EVL",
+      "icons": [],
+      "game_options": null,
+      "types": {
+        "realMode": 1
+      },
+      "extra_category": {
+        "title": "Roulette",
+        "name": "roulette",
+        "id": "2"
+      },
+      "show_as_provider": "EVL",
+      "badge": null,
+      "ratio": "16:9",
+      "active": "1",
+      "backgrounds": [],
+      "icon_2": "https://www.cmsbetconstruct.com/content/images/casino/icon2/4e732c62a4d22d0d18fc72346404ffef_casinoGameIcon2.jpg",
+      "id": "26124",
+      "rtp": null,
+      "features": [],
+      "icon_3": "https://www.cmsbetconstruct.com/content/images/casino/icon3/5ee255c00adb6249a716de3463ff25d6_casinoGameIcon3.jpg",
+      "game_skin_id": "56384892",
+      "front_game_id": "EVLmgsc0ojqr9ya2psa",
+      "provider_badge": null,
+      "feats": [],
+      "blocked_countries": [],
+      "provider_title": "Evolution",
+      "title": null,
+      "server_game_id": "mgsc0ojqr9ya2psa",
+      "icons2": [],
+      "cats": [
+        {
+          "title": "Live Dealer",
+          "id": "28",
+          "type": "category"
+        }
+      ],
+      "description": null,
+      "thms": [],
+      "extearnal_game_id": "20934",
+      "has_age_restriction": 0,
+      "blocked_currencies": [
+        "VEF",
+        "BTC",
+        "ETH"
+      ],
+      "name": "French Roulette Gold",
+      "status": "published"
+    },
+    {
+      "has_age_restriction": 0,
+      "extearnal_game_id": "400070220",
+      "name": "VIP Roulette",
+      "status": "published",
+      "blocked_currencies": [
+        "VEF",
+        "BTC",
+        "ETH"
+      ],
+      "cats": [
+        {
+          "id": "28",
+          "type": "category",
+          "title": "Live Dealer"
+        }
+      ],
+      "icons2": [],
+      "server_game_id": "o2zdykq3sbaemw7b",
+      "description": null,
+      "thms": [],
+      "title": null,
+      "provider_title": "Evolution",
+      "blocked_countries": [],
+      "game_skin_id": "56383009",
+      "icon_3": "https://www.cmsbetconstruct.com/content/images/casino/icon3/fc359bbb8ad4b8b4a97ef8aa5fcc3967_casinoGameIcon3.jpg",
+      "feats": [],
+      "provider_badge": null,
+      "front_game_id": "EVLo2zdykq3sbaemw7b",
+      "features": [],
+      "rtp": null,
+      "ratio": "16:9",
+      "icon_2": "https://www.cmsbetconstruct.com/content/images/casino/icon2/139672ed678f3165bb6fdd9af1bfd832_casinoGameIcon2.jpg",
+      "id": "26122",
+      "backgrounds": [],
+      "active": "1",
+      "types": {
+        "realMode": 1
+      },
+      "game_options": null,
+      "icons": [],
+      "badge": null,
+      "show_as_provider": "EVL",
+      "extra_category": {
+        "title": "Roulette",
+        "id": "2",
+        "name": "roulette"
+      },
+      "themes": [],
+      "categories": [
+        "28"
+      ],
+      "licenseIcons": [],
+      "provider": "EVL"
+    },
+    {
+      "cats": [
+        {
+          "type": "category",
+          "id": "28",
+          "title": "Live Dealer"
+        }
+      ],
+      "icons2": [],
+      "server_game_id": "AmericanTable001",
+      "thms": [],
+      "description": null,
+      "extearnal_game_id": "21692",
+      "has_age_restriction": 0,
+      "name": "American Roulette",
+      "status": "published",
+      "blocked_currencies": [
+        "VEF",
+        "BTC",
+        "ETH"
+      ],
+      "icon_3": "https://www.cmsbetconstruct.com/content/images/casino/icon3/4f96bc283b654aba64bb63409f2abeab_casinoGameIcon3.jpg",
+      "game_skin_id": "56382082",
+      "provider_badge": null,
+      "feats": [],
+      "front_game_id": "EVLAmericanTable001",
+      "provider_title": "Evolution",
+      "blocked_countries": [],
+      "title": null,
+      "ratio": "16:9",
+      "id": "26120",
+      "icon_2": "https://www.cmsbetconstruct.com/content/images/casino/icon2/29314976f0a26bcc92413c00164cda9f_casinoGameIcon2.jpg",
+      "active": "1",
+      "backgrounds": [],
+      "features": [],
+      "rtp": null,
+      "themes": [],
+      "categories": [
+        "28"
+      ],
+      "licenseIcons": [],
+      "provider": "EVL",
+      "game_options": null,
+      "icons": [],
+      "types": {
+        "realMode": 1
+      },
+      "show_as_provider": "EVL",
+      "extra_category": {
+        "title": "Roulette",
+        "name": "roulette",
+        "id": "2"
+      },
+      "badge": null
+    },
+    {
+      "has_age_restriction": 0,
+      "extearnal_game_id": "400031699",
+      "blocked_currencies": [
+        "VEF",
+        "BTC",
+        "ETH"
+      ],
+      "status": "published",
+      "name": "Dansk Roulette",
+      "server_game_id": "3aidqufu9szxha2n",
+      "icons2": [],
+      "cats": [
+        {
+          "id": "28",
+          "type": "category",
+          "title": "Live Dealer"
+        }
+      ],
+      "description": null,
+      "thms": [],
+      "title": null,
+      "blocked_countries": [],
+      "provider_title": "Evolution",
+      "game_skin_id": "56376909",
+      "icon_3": "https://www.cmsbetconstruct.com/content/images/casino/icon3/c51128376ad059aac5770ab813ed6810_casinoGameIcon3.jpg",
+      "front_game_id": "EVL3aidqufu9szxha2n",
+      "feats": [],
+      "provider_badge": null,
+      "rtp": null,
+      "features": [],
+      "ratio": "16:9",
+      "active": "1",
+      "backgrounds": [],
+      "icon_2": "https://www.cmsbetconstruct.com/content/images/casino/icon2/03ce50df60bae59084056cf4e459b07a_casinoGameIcon2.jpg",
+      "id": "26116",
+      "types": {
+        "realMode": 1
+      },
+      "icons": [],
+      "game_options": null,
+      "badge": null,
+      "extra_category": {
+        "id": "2",
+        "name": "roulette",
+        "title": "Roulette"
+      },
+      "show_as_provider": "EVL",
+      "licenseIcons": [],
+      "categories": [
+        "28"
+      ],
+      "themes": [],
+      "provider": "EVL"
+    },
+    {
+      "description": null,
+      "thms": [],
+      "server_game_id": "Craps00000000001",
+      "icons2": [],
+      "cats": [
+        {
+          "title": "Live Dealer",
+          "type": "category",
+          "id": "28"
+        }
+      ],
+      "blocked_currencies": [
+        "VEF",
+        "BTC",
+        "ETH"
+      ],
+      "status": "published",
+      "name": "Craps",
+      "has_age_restriction": 0,
+      "extearnal_game_id": "40004821",
+      "front_game_id": "EVLCraps00000000001",
+      "provider_badge": null,
+      "feats": [],
+      "game_skin_id": "52634893",
+      "icon_3": "https://www.cmsbetconstruct.com/content/images/casino/icon3/2d1adb228eca80370bc1cc2bee5a6f8d_casinoGameIcon3.png",
+      "title": null,
+      "blocked_countries": [],
+      "provider_title": "Evolution",
+      "active": "1",
+      "backgrounds": [],
+      "icon_2": "https://www.cmsbetconstruct.com/content/images/casino/icon2/92c9e16988b6586c3393a4e7c941fe1b_casinoGameIcon2.png",
+      "id": "21748",
+      "ratio": "16:9",
+      "rtp": null,
+      "features": [],
+      "provider": "EVL",
+      "themes": [],
+      "categories": [
+        "28"
+      ],
+      "licenseIcons": [],
+      "badge": null,
+      "extra_category": {
+        "title": "Game Shows",
+        "name": "gameShows",
+        "id": "6"
+      },
+      "show_as_provider": "EVL",
+      "types": {
+        "realMode": 1
+      },
+      "icons": [],
+      "game_options": null
+    },
+    {
+      "provider": "EVL",
+      "themes": [],
+      "categories": [
+        "28",
+        "89"
+      ],
+      "licenseIcons": [],
+      "show_as_provider": "EVL",
+      "extra_category": {
+        "id": "7",
+        "name": "turkishTables",
+        "title": "Turkish Tables"
+      },
+      "badge": null,
+      "game_options": null,
+      "icons": [],
+      "types": {
+        "realMode": 1
+      },
+      "icon_2": "https://www.cmsbetconstruct.com/content/images/casino/icon2/6bc3397eb0639b5cba740ed7bc80787a_casinoGameIcon2.png",
+      "id": "24548",
+      "active": "1",
+      "backgrounds": [],
+      "ratio": "16:9",
+      "features": [],
+      "rtp": null,
+      "provider_badge": null,
+      "feats": [],
+      "front_game_id": "EVLr5aw9yumyaxgnd90",
+      "icon_3": "https://www.cmsbetconstruct.com/content/images/casino/icon3/9b86a35f0fc3a6e42054725cf557b68a_casinoGameIcon3.png",
+      "game_skin_id": "54779572",
+      "provider_title": "Evolution",
+      "blocked_countries": [],
+      "title": null,
+      "description": null,
+      "thms": [],
+      "cats": [
+        {
+          "type": "category",
+          "id": "28",
+          "title": "Live Dealer"
+        },
+        {
+          "id": "89",
+          "type": "category",
+          "title": "Roulette"
+        }
+      ],
+      "icons2": [],
+      "server_game_id": "r5aw9yumyaxgnd90",
+      "name": "Turkish Roulette",
+      "status": "published",
+      "blocked_currencies": [
+        "VEF",
+        "BTC",
+        "ETH"
+      ],
+      "extearnal_game_id": "21655",
+      "has_age_restriction": 0
+    },
+    {
+      "provider_badge": null,
+      "feats": [],
+      "front_game_id": "EVL828",
+      "icon_3": "https://www.cmsbetconstruct.com/content/images/casino/icon3/490c325783ca1b6f2b41f07a7b9423cf_casinoGameIcon3.jpg",
+      "game_skin_id": "54351394",
+      "provider_title": "Evolution",
+      "blocked_countries": [],
+      "title": null,
+      "description": null,
+      "thms": [],
+      "icons2": [],
+      "cats": [
+        {
+          "title": "Live Dealer",
+          "type": "category",
+          "id": "28"
+        }
+      ],
+      "server_game_id": "828",
+      "name": "Texas Hold'em Bonus Poker",
+      "status": "published",
+      "blocked_currencies": [
+        "VEF",
+        "BTC",
+        "ETH"
+      ],
+      "extearnal_game_id": "40002928",
+      "has_age_restriction": 0,
+      "provider": "EVL",
+      "licenseIcons": [],
+      "themes": [],
+      "categories": [
+        "28"
+      ],
+      "show_as_provider": "EVL",
+      "extra_category": {
+        "title": "Poker",
+        "id": "3",
+        "name": "poker"
+      },
+      "badge": null,
+      "game_options": null,
+      "icons": [],
+      "types": {
+        "realMode": 1
+      },
+      "id": "24030",
+      "icon_2": "https://www.cmsbetconstruct.com/content/images/casino/icon2/5475cde5fa8ea8ab3598fd2d7614898c_casinoGameIcon2.jpg",
+      "active": "1",
+      "backgrounds": [],
+      "ratio": "16:9",
+      "features": [],
+      "rtp": null
+    },
+    {
+      "game_skin_id": "52634883",
+      "icon_3": "https://www.cmsbetconstruct.com/content/images/casino/icon3/c78b1ed8bd08587dbb0d3d6a3b76ff49_casinoGameIcon3.png",
+      "front_game_id": "EVLmoneywheel",
+      "feats": [],
+      "provider_badge": null,
+      "height": "540",
+      "title": null,
+      "blocked_countries": [],
+      "provider_title": "Evolution",
+      "server_game_id": "moneywheel",
+      "icons2": [],
+      "cats": [
+        {
+          "type": "category",
+          "id": "28",
+          "title": "Live Dealer"
+        }
+      ],
+      "description": null,
+      "thms": [],
+      "has_age_restriction": 0,
+      "extearnal_game_id": "21666",
+      "blocked_currencies": [
+        "VEF",
+        "BTC",
+        "ETH"
+      ],
+      "status": "published",
+      "name": "Dream Catcher",
+      "licenseIcons": [],
+      "width": "960",
+      "themes": [],
+      "categories": [
+        "28"
+      ],
+      "provider": "EVL",
+      "types": {
+        "realMode": 1
+      },
+      "icons": [],
+      "game_options": null,
+      "badge": null,
+      "extra_category": {
+        "id": "6",
+        "name": "gameShows",
+        "title": "Game Shows"
+      },
+      "show_as_provider": "EVL",
+      "active": "1",
+      "backgrounds": [],
+      "id": "6476",
+      "icon_2": "https://www.cmsbetconstruct.com/content/images/casino/icon2/a1f1ef15cd947f32d2843444e5f7500e_casinoGameIcon2.png",
+      "rtp": null,
+      "features": []
+    },
+    {
+      "blocked_currencies": [
+        "VEF",
+        "BTC",
+        "ETH"
+      ],
+      "status": "published",
+      "name": "Speed Baccarat A",
+      "has_age_restriction": 0,
+      "extearnal_game_id": "20997",
+      "thms": [],
+      "description": null,
+      "server_game_id": "leqhceumaq6qfoug",
+      "icons2": [],
+      "cats": [
+        {
+          "type": "category",
+          "id": "28",
+          "title": "Live Dealer"
+        }
+      ],
+      "title": null,
+      "blocked_countries": [],
+      "provider_title": "Evolution",
+      "front_game_id": "EVLleqhceumaq6qfoug",
+      "feats": [],
+      "provider_badge": null,
+      "game_skin_id": "52634829",
+      "icon_3": "https://www.cmsbetconstruct.com/content/images/casino/icon3/5862ad95cb3499606cc0661e058ceaaf_casinoGameIcon3.png",
+      "rtp": null,
+      "features": [],
+      "backgrounds": [],
+      "active": "1",
+      "icon_2": "https://www.cmsbetconstruct.com/content/images/casino/icon2/d0e57f1e189dd1f88fbe6a2ebf5e6be1_casinoGameIcon2.png",
+      "id": "21654",
+      "ratio": "16:9",
+      "badge": null,
+      "extra_category": {
+        "name": "baccarat",
+        "id": "4",
+        "title": "Baccarat"
+      },
+      "show_as_provider": "EVL",
+      "types": {
+        "realMode": 1
+      },
+      "icons": [],
+      "game_options": null,
+      "provider": "EVL",
+      "themes": [],
+      "categories": [
+        "28"
+      ],
+      "licenseIcons": []
+    },
+    {
+      "provider": "EVL",
+      "categories": [
+        "28"
+      ],
+      "themes": [],
+      "licenseIcons": [],
+      "badge": null,
+      "show_as_provider": "EVL",
+      "extra_category": {
+        "id": "2",
+        "name": "roulette",
+        "title": "Roulette"
+      },
+      "types": {
+        "realMode": 1
+      },
+      "game_options": null,
+      "icons": [],
+      "icon_2": "https://www.cmsbetconstruct.com/content/images/casino/icon2/fc3d6c3d5cfea3d955b218e731262c8c_casinoGameIcon2.png",
+      "id": "21656",
+      "backgrounds": [],
+      "active": "1",
+      "ratio": "16:9",
+      "features": [],
+      "rtp": null,
+      "provider_badge": null,
+      "feats": [],
+      "front_game_id": "EVL7x0b1tgh7agmf6hv",
+      "game_skin_id": "52634857",
+      "icon_3": "https://www.cmsbetconstruct.com/content/images/casino/icon3/980c47b3cade3c554848c1ac01036a7c_casinoGameIcon3.png",
+      "title": null,
+      "provider_title": "Evolution",
+      "blocked_countries": [],
+      "description": null,
+      "thms": [],
+      "icons2": [],
+      "cats": [
+        {
+          "title": "Live Dealer",
+          "id": "28",
+          "type": "category"
+        }
+      ],
+      "server_game_id": "7x0b1tgh7agmf6hv",
+      "status": "published",
+      "name": "Immersive Roulette",
+      "blocked_currencies": [
+        "VEF",
+        "BTC",
+        "ETH"
+      ],
+      "has_age_restriction": 0,
+      "extearnal_game_id": "21031"
+    },
+    {
+      "icon_3": "https://www.cmsbetconstruct.com/content/images/casino/icon3/f851397dd76ae8be2a39b01ef6ac5d65_casinoGameIcon3.jpg",
+      "game_skin_id": "52634855",
+      "front_game_id": "EVLInstantRo0000001",
+      "provider_badge": null,
+      "feats": [],
+      "blocked_countries": [
+        "AU",
+        "CO",
+        "KP",
+        "LV",
+        "TW",
+        "US"
+      ],
+      "provider_title": "Evolution",
+      "title": null,
+      "server_game_id": "InstantRo0000001",
+      "cats": [
+        {
+          "id": "28",
+          "type": "category",
+          "title": "Live Dealer"
+        }
+      ],
+      "icons2": [],
+      "description": null,
+      "thms": [],
+      "extearnal_game_id": "40004829",
+      "has_age_restriction": 0,
+      "blocked_currencies": [
+        "VEF",
+        "BTC",
+        "ETH"
+      ],
+      "name": "Instant Roulette",
+      "status": "published",
+      "themes": [],
+      "licenseIcons": [],
+      "categories": [
+        "28"
+      ],
+      "provider": "EVL",
+      "icons": [],
+      "game_options": null,
+      "types": {
+        "realMode": 1
+      },
+      "extra_category": {
+        "name": "roulette",
+        "id": "2",
+        "title": "Roulette"
+      },
+      "show_as_provider": "EVL",
+      "badge": null,
+      "ratio": "16:9",
+      "backgrounds": [],
+      "active": "1",
+      "icon_2": "https://www.cmsbetconstruct.com/content/images/casino/icon2/983776189738b3a6826688bdffd21ee1_casinoGameIcon2.jpg",
+      "id": "19752",
+      "rtp": "92",
+      "features": []
+    },
+    {
+      "blocked_countries": [
+        "AU",
+        "CO",
+        "KP",
+        "LV",
+        "TW",
+        "US"
+      ],
+      "provider_title": "Evolution",
+      "title": null,
+      "front_game_id": "EVLCrazyTime0000001",
+      "feats": [],
+      "provider_badge": null,
+      "icon_3": "https://www.cmsbetconstruct.com/content/images/casino/icon3/7eb0a5bb930fd75cc8173020c19ca46d_casinoGameIcon3.png",
+      "game_skin_id": "52634891",
+      "blocked_currencies": [
+        "VEF",
+        "BTC",
+        "ETH"
+      ],
+      "name": "Crazy Time",
+      "status": "published",
+      "extearnal_game_id": "40004828",
+      "has_age_restriction": 0,
+      "thms": [],
+      "description": null,
+      "server_game_id": "CrazyTime0000001",
+      "cats": [
+        {
+          "title": "Live Dealer",
+          "type": "category",
+          "id": "28"
+        }
+      ],
+      "icons2": [],
+      "extra_category": {
+        "name": "gameShows",
+        "id": "6",
+        "title": "Game Shows"
+      },
+      "show_as_provider": "EVL",
+      "badge": null,
+      "icons": [],
+      "background": "https://www.cmsbetconstruct.com/content/images/casino/background/2c40d40fa20378faa18f094657c3210e_background.jpg",
+      "game_options": null,
+      "types": {
+        "realMode": 1
+      },
+      "provider": "EVL",
+      "themes": [],
+      "licenseIcons": [],
+      "categories": [
+        "28"
+      ],
+      "rtp": "97.3",
+      "features": [],
+      "backgrounds": [],
+      "active": "1",
+      "id": "18999",
+      "icon_2": "https://www.cmsbetconstruct.com/content/images/casino/icon2/cdd73e3e3abaca61742e6b2b0b6962bc_casinoGameIcon2.png",
+      "ratio": "16:9"
+    },
+    {
+      "features": [],
+      "rtp": "98.8",
+      "ratio": "16:9",
+      "id": "18903",
+      "icon_2": "https://www.cmsbetconstruct.com/content/images/casino/icon2/613ccfc6450b5960ea78697faf697314_casinoGameIcon2.png",
+      "active": "1",
+      "backgrounds": [],
+      "types": {
+        "realMode": 1
+      },
+      "game_options": null,
+      "icons": [],
+      "badge": null,
+      "show_as_provider": "EVL",
+      "extra_category": {
+        "name": "blackjack",
+        "id": "1",
+        "title": "Blackjack"
+      },
+      "categories": [
+        "28"
+      ],
+      "licenseIcons": [],
+      "themes": [],
+      "provider": "EVL",
+      "has_age_restriction": 0,
+      "extearnal_game_id": "40004822",
+      "name": "Power Blackjack",
+      "status": "published",
+      "blocked_currencies": [
+        "VEF",
+        "BTC",
+        "ETH"
+      ],
+      "icons2": [],
+      "cats": [
+        {
+          "title": "Live Dealer",
+          "id": "28",
+          "type": "category"
+        }
+      ],
+      "server_game_id": "PowerInfiniteBJ1",
+      "thms": [],
+      "description": null,
+      "title": null,
+      "provider_title": "Evolution",
+      "blocked_countries": [],
+      "game_skin_id": "52634835",
+      "icon_3": "https://www.cmsbetconstruct.com/content/images/casino/icon3/ebc3150c6fe08fa50592fb5b75f7b17e_casinoGameIcon3.png",
+      "provider_badge": null,
+      "feats": [],
+      "front_game_id": "EVLPowerInfiniteBJ1"
+    },
+    {
+      "blocked_countries": [],
+      "provider_title": "Evolution",
+      "title": null,
+      "icon_3": "https://www.cmsbetconstruct.com/content/images/casino/icon3/fc6e38f9657f8d68b07cf5c81ad9a409_casinoGameIcon3.png",
+      "game_skin_id": "52634836",
+      "front_game_id": "EVLNoCommBac0000001",
+      "feats": [],
+      "provider_badge": null,
+      "extearnal_game_id": "21703",
+      "has_age_restriction": 0,
+      "blocked_currencies": [
+        "VEF",
+        "BTC",
+        "ETH"
+      ],
+      "name": "No Commission Baccarat",
+      "status": "published",
+      "server_game_id": "NoCommBac0000001",
+      "icons2": [],
+      "cats": [
+        {
+          "title": "Live Dealer",
+          "id": "28",
+          "type": "category"
+        }
+      ],
+      "thms": [],
+      "description": null,
+      "icons": [],
+      "game_options": null,
+      "types": {
+        "realMode": 1
+      },
+      "extra_category": {
+        "id": "4",
+        "name": "baccarat",
+        "title": "Baccarat"
+      },
+      "show_as_provider": "EVL",
+      "badge": null,
+      "themes": [],
+      "licenseIcons": [],
+      "categories": [
+        "28"
+      ],
+      "provider": "EVL",
+      "rtp": null,
+      "features": [],
+      "ratio": "16:9",
+      "active": "1",
+      "backgrounds": [],
+      "icon_2": "https://www.cmsbetconstruct.com/content/images/casino/icon2/336fa9f3a98975c25e4bb809451c41ed_casinoGameIcon2.png",
+      "id": "18015"
+    },
+    {
+      "rtp": null,
+      "features": [],
+      "ratio": "16:9",
+      "backgrounds": [],
+      "active": "1",
+      "id": "18005",
+      "icon_2": "https://www.cmsbetconstruct.com/content/images/casino/icon2/74c1c6ffeb28ffcc07a5155ea1619c4f_casinoGameIcon2.png",
+      "icons": [],
+      "game_options": null,
+      "types": {
+        "realMode": 1
+      },
+      "extra_category": {
+        "title": "Roulette",
+        "name": "roulette",
+        "id": "2"
+      },
+      "show_as_provider": "EVL",
+      "badge": null,
+      "themes": [],
+      "categories": [
+        "28"
+      ],
+      "licenseIcons": [],
+      "provider": "EVL",
+      "extearnal_game_id": "217049",
+      "has_age_restriction": 0,
+      "blocked_currencies": [
+        "VEF",
+        "BTC",
+        "ETH"
+      ],
+      "status": "published",
+      "name": "Speed Auto Roulette",
+      "server_game_id": "SpeedAutoRo00001",
+      "icons2": [],
+      "cats": [
+        {
+          "type": "category",
+          "id": "28",
+          "title": "Live Dealer"
+        }
+      ],
+      "thms": [],
+      "description": null,
+      "blocked_countries": [],
+      "provider_title": "Evolution",
+      "title": null,
+      "icon_3": "https://www.cmsbetconstruct.com/content/images/casino/icon3/eef9b2b6b03fd0c025933d0401f7bf3c_casinoGameIcon3.png",
+      "game_skin_id": "52634830",
+      "front_game_id": "EVLSpeedAutoRo00001",
+      "provider_badge": null,
+      "feats": []
+    },
+    {
+      "game_options": null,
+      "icons": [],
+      "types": {
+        "realMode": 1
+      },
+      "show_as_provider": "EVL",
+      "extra_category": {
+        "name": "blackjack",
+        "id": "1",
+        "title": "Blackjack"
+      },
+      "badge": null,
+      "categories": [
+        "28"
+      ],
+      "themes": [],
+      "licenseIcons": [],
+      "provider": "EVL",
+      "features": [],
+      "rtp": null,
+      "ratio": "16:9",
+      "icon_2": "https://www.cmsbetconstruct.com/content/images/casino/icon2/9a72cc109de015d8053f0b1fec5ccdfc_casinoGameIcon2.jpg",
+      "id": "18020",
+      "backgrounds": [],
+      "active": "1",
+      "provider_title": "Evolution",
+      "blocked_countries": [],
+      "title": null,
+      "icon_3": "https://www.cmsbetconstruct.com/content/images/casino/icon3/1ba5a1b558038397ff9843325f256d49_casinoGameIcon3.jpg",
+      "game_skin_id": "52634823",
+      "feats": [],
+      "provider_badge": null,
+      "front_game_id": "EVLSpeedBlackjack03",
+      "extearnal_game_id": "400032294",
+      "has_age_restriction": 0,
+      "name": "Speed Blackjack C",
+      "status": "published",
+      "blocked_currencies": [
+        "VEF",
+        "BTC",
+        "ETH"
+      ],
+      "icons2": [],
+      "cats": [
+        {
+          "title": "Live Dealer",
+          "type": "category",
+          "id": "28"
+        }
+      ],
+      "server_game_id": "SpeedBlackjack03",
+      "thms": [],
+      "description": null
+    },
+    {
+      "blocked_currencies": [
+        "VEF",
+        "BTC",
+        "ETH"
+      ],
+      "name": "Speed Blackjack B",
+      "status": "published",
+      "has_age_restriction": 0,
+      "extearnal_game_id": "400032292",
+      "description": null,
+      "thms": [],
+      "server_game_id": "SpeedBlackjack02",
+      "icons2": [],
+      "cats": [
+        {
+          "title": "Live Dealer",
+          "id": "28",
+          "type": "category"
+        }
+      ],
+      "title": null,
+      "blocked_countries": [],
+      "provider_title": "Evolution",
+      "front_game_id": "EVLSpeedBlackjack02",
+      "feats": [],
+      "provider_badge": null,
+      "game_skin_id": "52634825",
+      "icon_3": "https://www.cmsbetconstruct.com/content/images/casino/icon3/0a47b61acffc9e8177e651c6564b5e5b_casinoGameIcon3.jpg",
+      "rtp": null,
+      "features": [],
+      "backgrounds": [],
+      "active": "1",
+      "id": "18018",
+      "icon_2": "https://www.cmsbetconstruct.com/content/images/casino/icon2/686c7cae5370078078c208682994a09f_casinoGameIcon2.jpg",
+      "ratio": "16:9",
+      "badge": null,
+      "extra_category": {
+        "name": "blackjack",
+        "id": "1",
+        "title": "Blackjack"
+      },
+      "show_as_provider": "EVL",
+      "types": {
+        "realMode": 1
+      },
+      "icons": [],
+      "game_options": null,
+      "provider": "EVL",
+      "themes": [],
+      "categories": [
+        "28"
+      ],
+      "licenseIcons": []
+    },
+    {
+      "extra_category": {
+        "title": "Blackjack",
+        "name": "blackjack",
+        "id": "1"
+      },
+      "show_as_provider": "EVL",
+      "badge": null,
+      "icons": [],
+      "game_options": null,
+      "types": {
+        "realMode": 1
+      },
+      "provider": "EVL",
+      "themes": [],
+      "categories": [
+        "28"
+      ],
+      "licenseIcons": [],
+      "rtp": null,
+      "features": [],
+      "active": "1",
+      "backgrounds": [],
+      "id": "18016",
+      "icon_2": "https://www.cmsbetconstruct.com/content/images/casino/icon2/e11686c5456e418f9296cf0f50fb2e8c_casinoGameIcon2.jpg",
+      "ratio": "16:9",
+      "blocked_countries": [],
+      "provider_title": "Evolution",
+      "title": null,
+      "front_game_id": "EVLSpeedBlackjack01",
+      "feats": [],
+      "provider_badge": null,
+      "icon_3": "https://www.cmsbetconstruct.com/content/images/casino/icon3/9d5167704a16362a1b827c3ccc5c1a90_casinoGameIcon3.jpg",
+      "game_skin_id": "52634827",
+      "blocked_currencies": [
+        "VEF",
+        "BTC",
+        "ETH"
+      ],
+      "name": "Speed Blackjack A",
+      "status": "published",
+      "extearnal_game_id": "400032290",
+      "has_age_restriction": 0,
+      "thms": [],
+      "description": null,
+      "server_game_id": "SpeedBlackjack01",
+      "icons2": [],
+      "cats": [
+        {
+          "type": "category",
+          "id": "28",
+          "title": "Live Dealer"
+        }
+      ]
+    },
+    {
+      "licenseIcons": [],
+      "themes": [],
+      "categories": [
+        "28"
+      ],
+      "provider": "EVL",
+      "types": {
+        "realMode": 1
+      },
+      "game_options": null,
+      "icons": [],
+      "badge": null,
+      "show_as_provider": "EVL",
+      "extra_category": {
+        "id": "2",
+        "name": "roulette",
+        "title": "Roulette"
+      },
+      "ratio": "16:9",
+      "icon_2": "https://www.cmsbetconstruct.com/content/images/casino/icon2/841515f46225ae76d11c029ad334a2eb_casinoGameIcon2.png",
+      "id": "18006",
+      "active": "1",
+      "backgrounds": [],
+      "features": [],
+      "rtp": null,
+      "game_skin_id": "52634887",
+      "icon_3": "https://www.cmsbetconstruct.com/content/images/casino/icon3/c35bc14c4b3f8e96ce7e0e8171668f96_casinoGameIcon3.png",
+      "feats": [],
+      "provider_badge": null,
+      "front_game_id": "EVLDoubleBallRou001",
+      "title": null,
+      "provider_title": "Evolution",
+      "blocked_countries": [],
+      "cats": [
+        {
+          "id": "28",
+          "type": "category",
+          "title": "Live Dealer"
+        }
+      ],
+      "icons2": [],
+      "server_game_id": "DoubleBallRou001",
+      "description": null,
+      "thms": [],
+      "has_age_restriction": 0,
+      "extearnal_game_id": "21656",
+      "status": "published",
+      "name": "Double Ball Roulette",
+      "blocked_currencies": [
+        "VEF",
+        "BTC",
+        "ETH"
+      ]
+    },
+    {
+      "show_as_provider": "EVL",
+      "extra_category": {
+        "name": "roulette",
+        "id": "2",
+        "title": "Roulette"
+      },
+      "badge": null,
+      "game_options": null,
+      "icons": [],
+      "types": {
+        "realMode": 1
+      },
+      "provider": "EVL",
+      "licenseIcons": [],
+      "categories": [
+        "28"
+      ],
+      "themes": [],
+      "features": [],
+      "rtp": null,
+      "icon_2": "https://www.cmsbetconstruct.com/content/images/casino/icon2/669e3b0d7852c03df018a76bbce6ed35_casinoGameIcon2.png",
+      "id": "17780",
+      "active": "1",
+      "backgrounds": [],
+      "ratio": "16:9",
+      "provider_title": "Evolution",
+      "blocked_countries": [],
+      "title": null,
+      "feats": [],
+      "provider_badge": null,
+      "front_game_id": "EVLMegaBall00000001",
+      "icon_3": "https://www.cmsbetconstruct.com/content/images/casino/icon3/4ebe82338857eb30de1342fe432806a4_casinoGameIcon3.png",
+      "game_skin_id": "52634841",
+      "status": "published",
+      "name": "Mega Ball",
+      "blocked_currencies": [
+        "VEF",
+        "BTC",
+        "ETH"
+      ],
+      "extearnal_game_id": "40004823",
+      "has_age_restriction": 0,
+      "thms": [],
+      "description": null,
+      "icons2": [],
+      "cats": [
+        {
+          "title": "Live Dealer",
+          "type": "category",
+          "id": "28"
+        }
+      ],
+      "server_game_id": "MegaBall00000001"
+    },
+    {
+      "front_game_id": "EVLuth",
+      "feats": [],
+      "provider_badge": null,
+      "icon_3": "https://www.cmsbetconstruct.com/content/images/casino/icon3/6158b927ba7aeafa18582061f81620ad_casinoGameIcon3.png",
+      "game_skin_id": "52634817",
+      "blocked_countries": [],
+      "provider_title": "Evolution",
+      "title": null,
+      "thms": [],
+      "description": null,
+      "server_game_id": "uth",
+      "cats": [
+        {
+          "type": "category",
+          "id": "28",
+          "title": "Live Dealer"
+        }
+      ],
+      "icons2": [],
+      "blocked_currencies": [
+        "VEF",
+        "BTC",
+        "ETH"
+      ],
+      "name": "Ultimate Texas Holdem",
+      "status": "published",
+      "extearnal_game_id": "21668",
+      "has_age_restriction": 0,
+      "provider": "EVL",
+      "licenseIcons": [],
+      "themes": [],
+      "categories": [
+        "28"
+      ],
+      "extra_category": {
+        "title": "Poker",
+        "id": "3",
+        "name": "poker"
+      },
+      "show_as_provider": "EVL",
+      "badge": null,
+      "icons": [],
+      "game_options": null,
+      "types": {
+        "realMode": 1
+      },
+      "backgrounds": [],
+      "active": "1",
+      "id": "7400",
+      "icon_2": "https://www.cmsbetconstruct.com/content/images/casino/icon2/8e7140af9d79cdeb8a10e0d8053f0442_casinoGameIcon2.png",
+      "ratio": "16:9",
+      "rtp": null,
+      "features": []
+    },
+    {
+      "rtp": null,
+      "features": [],
+      "backgrounds": [],
+      "active": "1",
+      "icon_2": "https://www.cmsbetconstruct.com/content/images/casino/icon2/d082632035f479aadd737888c36f53d3_casinoGameIcon2.png",
+      "id": "7403",
+      "icons": [],
+      "game_options": null,
+      "types": {
+        "realMode": 1
+      },
+      "extra_category": {
+        "id": "3",
+        "name": "poker",
+        "title": "Poker"
+      },
+      "show_as_provider": "EVL",
+      "badge": null,
+      "categories": [
+        "28"
+      ],
+      "licenseIcons": [],
+      "themes": [],
+      "width": "960",
+      "provider": "EVL",
+      "extearnal_game_id": "21029",
+      "has_age_restriction": 0,
+      "blocked_currencies": [
+        "VEF",
+        "BTC",
+        "ETH"
+      ],
+      "status": "published",
+      "name": "Three Card Poker",
+      "server_game_id": "tcp",
+      "cats": [
+        {
+          "title": "Live Dealer",
+          "id": "28",
+          "type": "category"
+        }
+      ],
+      "icons2": [],
+      "description": null,
+      "thms": [],
+      "height": "540",
+      "blocked_countries": [],
+      "provider_title": "Evolution",
+      "title": null,
+      "icon_3": "https://www.cmsbetconstruct.com/content/images/casino/icon3/32d08b448f15d43f03a3779bdeaa296b_casinoGameIcon3.png",
+      "game_skin_id": "52634818",
+      "front_game_id": "EVLtcp",
+      "feats": [],
+      "provider_badge": null
+    },
+    {
+      "ratio": "16:9",
+      "icon_2": "https://www.cmsbetconstruct.com/content/images/casino/icon2/da2d9879d795ea3d4edeedf3abbefdda_casinoGameIcon2.png",
+      "id": "13043",
+      "active": "1",
+      "backgrounds": [],
+      "features": [],
+      "rtp": null,
+      "themes": [],
+      "licenseIcons": [],
+      "categories": [
+        "28"
+      ],
+      "provider": "EVL",
+      "game_options": null,
+      "icons": [],
+      "types": {
+        "realMode": 1
+      },
+      "show_as_provider": "EVL",
+      "extra_category": {
+        "title": "Asian Games",
+        "name": "asianGames",
+        "id": "5"
+      },
+      "badge": null,
+      "cats": [
+        {
+          "type": "category",
+          "id": "28",
+          "title": "Live Dealer"
+        }
+      ],
+      "icons2": [],
+      "server_game_id": "SuperSicBo000001",
+      "thms": [],
+      "description": null,
+      "extearnal_game_id": "40003131",
+      "has_age_restriction": 0,
+      "name": "Super Sic Bo",
+      "status": "published",
+      "blocked_currencies": [
+        "VEF",
+        "BTC",
+        "ETH"
+      ],
+      "icon_3": "https://www.cmsbetcon"
+    }
+  ]
+}

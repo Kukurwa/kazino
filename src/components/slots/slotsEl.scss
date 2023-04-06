@@ -1,0 +1,20 @@
+.shadow {
+    background-color: rgba(0, 0, 0, 0.411);
+}
+.slotsCasEl {
+    &_info {
+        h2 {
+            font-family: 'Gilroy';
+            color: white;
+        }
+    }
+}
+
+.textEl {
+    font-family: 'Gilroy';
+    color: white;
+}
+
+a {
+    pointer-events: none;
+}

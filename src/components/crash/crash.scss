@@ -1,0 +1,60 @@
+
+.crash {
+
+    &_tage {
+
+        @media (max-width: 670px) {
+            z-index: 3;
+            transform: translate(-50%);
+        }
+
+        h2 {
+            font-family: 'Gilroy';
+            color: var(--gold-color);
+        }
+    }
+
+    &_main {
+        background-color: var(--burgundy-color);
+        box-sizing: unset !important;
+        border: 2px solid var(--gold-color);
+
+            .sl-el:first-child {
+                position: absolute;
+                    left: 12%;
+                    top: 43%;
+                    transform: translate(0, -50%);
+
+                    @media (max-width: 1245px) {
+                        left: 6%;
+                    } 
+
+                    @media (max-width: 670px) {
+                        top: 79%
+                    } 
+
+                    @media (max-width: 440px) {
+                        left: 2%;
+                    } 
+            }
+
+            .sl-el:nth-child(3) {
+                position: absolute;
+                    right: 12%;
+                    top: 43%;
+                    transform: translate(0, -50%);
+
+                    @media (max-width: 1245px) {
+                        right: 6%;
+                    }
+
+                    @media (max-width: 670px) {
+                        top: 79%
+                    }
+
+                    @media (max-width: 440px) {
+                        right: 2%;
+                    } 
+        }
+    }
+}

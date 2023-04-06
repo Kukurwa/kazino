@@ -1,0 +1,19 @@
+.liveCasino {
+
+    &_tage {
+
+        @media (max-width: 670px) {
+           z-index: 3;
+        }
+
+        h2 {
+            font-family: 'Gilroy';
+            color: var(--gold-color);
+        }
+    }
+
+    &_main {
+        background-color: var(--burgundy-color);
+        border: 2px solid var(--gold-color);
+    }
+}
